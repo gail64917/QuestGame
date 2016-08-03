@@ -14,5 +14,10 @@ namespace QuestGame.Controllers
 
             return View();
         }
+
+        public ActionResult Add()
+        {
+            return View();
+        }
     }
 }
